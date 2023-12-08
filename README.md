@@ -1,2 +1,7 @@
-# automation-scripts
-Collection of personal utility scripts.
+# Automation Scripts
+
+<div align="left">
+
+> Collection of personal utility scripts.
+
+</div>
