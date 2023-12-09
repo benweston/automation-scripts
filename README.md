@@ -1,3 +1,5 @@
+![banner-image](https://github.com/benweston/automation-scripts/blob/main/assets/banner-image.png)
+
 # Automation Scripts
 
 <div align="left">
