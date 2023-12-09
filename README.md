@@ -1,4 +1,6 @@
-![banner-image](https://github.com/benweston/automation-scripts/blob/main/assets/banner-image.png)
+<div align="center">
+    <img src="https://github.com/benweston/automation-scripts/blob/main/assets/banner-image.png" alt="Computer Code" width="800" height="80" />
+</div>
 
 # Automation Scripts
 
