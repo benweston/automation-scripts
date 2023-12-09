@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/benweston/automation-scripts/blob/main/assets/banner-image.png" alt="Computer Code" width="800" height="80" />
+    <img src="https://github.com/benweston/automation-scripts/blob/main/assets/banner-image.png" alt="Computer Code" width="900" height="70" />
 </div>
 
 # Automation Scripts
