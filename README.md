@@ -17,3 +17,8 @@
         </a>
     </p>
 </div>
+
+<div align="left">
+    Banner taken from photo by <a href="https://unsplash.com/@gamell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Joan Gamell</a> on
+    <a href="https://unsplash.com/photos/black-flat-screen-computer-monitor-ZS67i1HLllo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+</div>
