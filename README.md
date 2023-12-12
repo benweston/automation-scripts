@@ -10,30 +10,6 @@
 
 </div>
 
-## Introduction
-
-<div align="justify">
-
-_Coming soon..._   
-
-</div>
-
-## Usage - Quick-Start
-
-<div align="justify">
-
-_Coming soon..._   
-
-</div>
-
-## Usage - In-Depth Guide
-
-<div align="justify">
-
-_Coming soon..._   
-
-</div>
-
 ## Project Roadmap
 
 <div align="left">
