@@ -10,17 +10,6 @@
 
 </div>
 
-## Project Roadmap
-
-<div align="left">
-
-All current & upcoming work is captured within the following project:   
-| Project Name | Description |
-| :----- | :----- |
-| [Automation Scripts](https://github.com/users/benweston/projects/2/views/1) | Collection of personal utility scripts. |
-
-</div>
-
 ## License
 
 <div align="left">
