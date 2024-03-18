@@ -13,16 +13,8 @@
 ## License
 
 <div align="left">
-    <p align="left">
-        <a href="https://github.com/benweston/automation-scripts/blob/main/LICENSE">
-            <img src="https://github.com/benweston/automation-scripts/blob/main/img/license-icon-mit.png" width="88" height="31" alt="license-icon-mit" />
-        </a>
-    </p>
-</div>
 
-## Acknowledgements
+The Automation Scripts repository contents are provided under the [MIT License](https://github.com/benweston/automation-scripts/blob/main/LICENSE).   
+Banner image taken from photo by [Joan Gamell](https://unsplash.com/@gamell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-ZS67i1HLllo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/license).   
 
-<div align="left">
-    Banner taken from photo by <a href="https://unsplash.com/@gamell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Joan Gamell</a> on
-    <a href="https://unsplash.com/photos/black-flat-screen-computer-monitor-ZS67i1HLllo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
